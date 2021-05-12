@@ -23,12 +23,12 @@ export default class CharacterDetails extends Component {
     }
   }
 
-  render() {
+  
+
+  render(){
     const { image, name } = this.state.character;
     const { loading, gif } = this.state;
-    return loading ? (
-      <h1>Loading...</h1>
-    ) : (
+    return (loading) ? <h1>Loading...</h1> : 
       <>
         <div role="display" aria-label="character details">
           <h1>{name}</h1>
@@ -37,6 +37,6 @@ export default class CharacterDetails extends Component {
         <h3>A Random GIF</h3>
         <img src={gif.gifLink} alt={gif._id} />
       </>
-    );
+    
   }
 }

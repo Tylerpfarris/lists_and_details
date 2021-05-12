@@ -16,7 +16,7 @@ describe('CharacterDetails', () => {
         />
       </MemoryRouter>
     );
-
+      
     screen.getByText('Loading...');
 
     const divEl = await screen.findByRole('display', {

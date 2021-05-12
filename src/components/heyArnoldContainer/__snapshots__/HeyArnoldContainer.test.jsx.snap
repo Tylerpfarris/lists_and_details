@@ -1,0 +1,228 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HeyArnoldContainer renders a list of characters to the page 1`] = `
+<ul
+  aria-label="characters"
+>
+  <li>
+    <a
+      href="/details/5da237699734fdcb7bef8f5c"
+    >
+      <label
+        style="font-size: 40px;"
+      >
+        Nancy
+      </label>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/details/5da237699734fdcb7bef8f59"
+    >
+      <label
+        style="font-size: 40px;"
+      >
+        Grandpa's grandfather
+      </label>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/details/5da237699734fdcb7bef8f52"
+    >
+      <label
+        style="font-size: 40px;"
+      >
+        Grandpa Phil
+      </label>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/details/5da237699734fdcb7bef8f58"
+    >
+      <label
+        style="font-size: 40px;"
+      >
+        Grandpa's father
+      </label>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/details/5da237699734fdcb7bef8f70"
+    >
+      <label
+        style="font-size: 40px;"
+      >
+        Phoebe Heyerdahl
+      </label>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/details/5da237699734fdcb7bef8f7e"
+    >
+      <label
+        style="font-size: 40px;"
+      >
+        Eugene Horowitz
+      </label>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/details/5da237699734fdcb7bef8f82"
+    >
+      <label
+        style="font-size: 40px;"
+      >
+        Ray
+      </label>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/details/5da237699734fdcb7bef8f8b"
+    >
+      <label
+        style="font-size: 40px;"
+      >
+        Shelley
+      </label>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/details/5da237699734fdcb7bef8f76"
+    >
+      <label
+        style="font-size: 40px;"
+      >
+        Lila Sawyer
+      </label>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/details/5da237699734fdcb7bef8f7c"
+    >
+      <label
+        style="font-size: 40px;"
+      >
+        Uncle Stinky
+      </label>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/details/5da237699734fdcb7bef8f55"
+    >
+      <label
+        style="font-size: 40px;"
+      >
+        Arnie
+      </label>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/details/5da237699734fdcb7bef8f66"
+    >
+      <label
+        style="font-size: 40px;"
+      >
+        Olga Pataki
+      </label>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/details/5da237699734fdcb7bef8f6b"
+    >
+      <label
+        style="font-size: 40px;"
+      >
+        Timberly Johanssen
+      </label>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/details/5da237699734fdcb7bef8f6d"
+    >
+      <label
+        style="font-size: 40px;"
+      >
+        Jerry Berman
+      </label>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/details/5da237699734fdcb7bef8f73"
+    >
+      <label
+        style="font-size: 40px;"
+      >
+        Rhonda Wellington Lloyd
+      </label>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/details/5da237699734fdcb7bef8f78"
+    >
+      <label
+        style="font-size: 40px;"
+      >
+        Stinky Peterson
+      </label>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/details/5da237699734fdcb7bef8f71"
+    >
+      <label
+        style="font-size: 40px;"
+      >
+        Kyo Heyerdahl
+      </label>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/details/5da237699734fdcb7bef8f8e"
+    >
+      <label
+        style="font-size: 40px;"
+      >
+        Iggy
+      </label>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/details/5da237699734fdcb7bef8f77"
+    >
+      <label
+        style="font-size: 40px;"
+      >
+        Mr. Sawyer
+      </label>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/details/5da237699734fdcb7bef8f84"
+    >
+      <label
+        style="font-size: 40px;"
+      >
+        Thaddeus "Curly" Gammelthorpe
+      </label>
+    </a>
+  </li>
+</ul>
+`;
